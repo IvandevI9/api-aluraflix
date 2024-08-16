@@ -1,0 +1,84 @@
+{
+  "Videos": [
+    {
+      "id": "0",
+      "Titulo": "¿Que significa pensar como programador?",
+      "Categoria": "FRONT END",
+      "ImagenURL": "/img/player.png",
+      "VideoURL": "url",
+      "Descripcion": "Pensar como programador implica adoptar un enfoque específico para resolver problemas y abordar tareas, utilizando las habilidades y técnicas propias del desarrollo de software."
+    },
+    {
+      "id": "1",
+      "Titulo": "¿Cuándo usar let, var y const?",
+      "Categoria": "FRONT END",
+      "ImagenURL": "/img/frontend1.png",
+      "VideoURL": "url",
+      "Descripcion": "En JavaScript, let, var, y const son palabras clave utilizadas para declarar variables, pero tienen diferencias importantes en términos de alcance (scope), reasignación, y elevación (hoisting). "
+    },
+    {
+      "id": "2",
+      "Titulo": "¿Qué es JavaScript?",
+      "Categoria": "FRONT END",
+      "ImagenURL": "/img/frontend2.png",
+      "VideoURL": "url",
+      "Descripcion": "JavaScript es un lenguaje de programación versátil y ampliamente utilizado, que se ejecuta principalmente en navegadores web para crear interactividad y dinamismo en las páginas web."
+    },
+    {
+      "id": "3",
+      "Titulo": "Equipo Fron End",
+      "Categoria": "FRONT END",
+      "ImagenURL": "/img/frontend3.png",
+      "VideoURL": "url",
+      "Descripcion": "El equipo de Front End es responsable del desarrollo de la parte visible de una aplicación web o sitio web, que los usuarios interactúan directamente. Este equipo se enfoca en el diseño, la implementación y la funcionalidad de la interfaz de usuario."
+    },
+    {
+      "id": "4",
+      "Titulo": "Spring Framework",
+      "Categoria": "BACK END",
+      "ImagenURL": "/img/backend1.png",
+      "VideoURL": "url",
+      "Descripcion": "Spring Framework es un marco de trabajo de código abierto para el desarrollo de aplicaciones en Java. Es ampliamente utilizado en la industria debido a su flexibilidad, robustez y amplio ecosistema. "
+    },
+    {
+      "id": "5",
+      "Titulo": "¿Qué es SQL y NoSQL?",
+      "Categoria": "BACK END",
+      "ImagenURL": "/img/backend2.png",
+      "VideoURL": "url",
+      "Descripcion": "SQL y NoSQL son dos tipos de sistemas de gestión de bases de datos, cada uno con sus características, ventajas y desventajas"
+    },
+    {
+      "id": "6",
+      "Titulo": "Simplificando tu código en java; Conoce los enum",
+      "Categoria": "BACK END",
+      "ImagenURL": "/img/backend3.png",
+      "VideoURL": "url",
+      "Descripcion": "Los enum (enumeraciones) en Java son una característica que permite definir un conjunto de constantes que están relacionadas entre sí. Los enum proporcionan una forma más segura y expresiva de manejar grupos de valores constantes, en comparación con el uso de constantes static final en clases."
+    },
+    {
+      "id": "7",
+      "Titulo": "¿Qué son las soft skills?",
+      "Categoria": "INNOVACIÓN Y GESTIÓN",
+      "ImagenURL": "/img/iyg1.png",
+      "VideoURL": "url",
+      "Descripcion": "Las soft skills (habilidades blandas) son un conjunto de habilidades interpersonales, comunicativas y de pensamiento crítico que no están directamente relacionadas con conocimientos técnicos o específicos de un trabajo, sino que se refieren a cómo una persona interactúa con los demás y se adapta a diferentes situaciones. Estas habilidades son cruciales para el éxito en el entorno laboral y en la vida cotidiana."
+    },
+    {
+      "id": "8",
+      "Titulo": "Las 7 softskills más deseadas",
+      "Categoria": "INNOVACIÓN Y GESTIÓN",
+      "ImagenURL": "/img/iyg2.png",
+      "VideoURL": "url",
+      "Descripcion": "Las habilidades blandas más deseadas por empleadores y líderes suelen variar según la industria y el puesto, pero en general, algunas habilidades se destacan por su importancia en casi todos los campos."
+    },
+    {
+      "id": "9",
+      "Titulo": "Metodologías ágiles",
+      "Categoria": "INNOVACIÓN Y GESTIÓN",
+      "ImagenURL": "/img/iyg3.png",
+      "VideoURL": "url",
+      "Descripcion": "Las metodologías ágiles son enfoques para la gestión de proyectos y el desarrollo de productos que se centran en la flexibilidad, la colaboración y la capacidad de adaptarse a los cambios. Se desarrollaron inicialmente para el desarrollo de software, pero hoy en día se aplican a una variedad de campos."
+    }
+  ]
+}
